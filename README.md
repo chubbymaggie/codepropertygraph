@@ -1,4 +1,4 @@
-[![Build Status](https://buildstatus.dev.sltr.io/buildStatus/icon?job=CI-MASTER-CodePropertyGraph)](https://ci.shiftleftsecurity.com/job/CI-MASTER-CodePropertyGraph/)
+[![Build Status](https://secure.travis-ci.org/ShiftLeftSecurity/codepropertygraph.png?branch=master)](http://travis-ci.org/ShiftLeftSecurity/codepropertygraph)
 
 # Code Property Graph - Specification and Tooling
 
@@ -353,3 +353,4 @@ free-text strings.
 
 [3] The ShiftLeft Tinkergraph
     https://github.com/ShiftLeftSecurity/tinkergraph-gremlin
+
